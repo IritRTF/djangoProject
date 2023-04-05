@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+1%*gwl=!12p9^*chdj2$nj9%c(-7ydy9-mptbmo_84rxrunv^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shadrindb.pythonanywhere.com']
 
 
 # Application definition
